@@ -7,9 +7,6 @@
 
 body {
     height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-image: url(https://picsum.photos/1920/1080);
     color: white;
    
@@ -25,6 +22,9 @@ button {
     background-color: rgb(255, 255, 255);
     border: none;
     border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     
     
 }
